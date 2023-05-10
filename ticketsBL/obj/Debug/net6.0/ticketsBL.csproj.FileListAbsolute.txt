@@ -1,0 +1,17 @@
+C:\Users\ECC\Desktop\HTML\api\apilab2\ticketsBL\bin\Debug\net6.0\ticketsBL.deps.json
+C:\Users\ECC\Desktop\HTML\api\apilab2\ticketsBL\bin\Debug\net6.0\ticketsBL.dll
+C:\Users\ECC\Desktop\HTML\api\apilab2\ticketsBL\bin\Debug\net6.0\ticketsBL.pdb
+C:\Users\ECC\Desktop\HTML\api\apilab2\ticketsBL\bin\Debug\net6.0\tickets.DL.dll
+C:\Users\ECC\Desktop\HTML\api\apilab2\ticketsBL\bin\Debug\net6.0\tickets.DL.pdb
+C:\Users\ECC\Desktop\HTML\api\apilab2\ticketsBL\obj\Debug\net6.0\ticketsBL.csproj.AssemblyReference.cache
+C:\Users\ECC\Desktop\HTML\api\apilab2\ticketsBL\obj\Debug\net6.0\ticketsBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECC\Desktop\HTML\api\apilab2\ticketsBL\obj\Debug\net6.0\ticketsBL.AssemblyInfoInputs.cache
+C:\Users\ECC\Desktop\HTML\api\apilab2\ticketsBL\obj\Debug\net6.0\ticketsBL.AssemblyInfo.cs
+C:\Users\ECC\Desktop\HTML\api\apilab2\ticketsBL\obj\Debug\net6.0\ticketsBL.csproj.CoreCompileInputs.cache
+C:\Users\ECC\Desktop\HTML\api\apilab2\ticketsBL\obj\Debug\net6.0\ticketsBL.csproj.CopyComplete
+C:\Users\ECC\Desktop\HTML\api\apilab2\ticketsBL\obj\Debug\net6.0\ticketsBL.dll
+C:\Users\ECC\Desktop\HTML\api\apilab2\ticketsBL\obj\Debug\net6.0\refint\ticketsBL.dll
+C:\Users\ECC\Desktop\HTML\api\apilab2\ticketsBL\obj\Debug\net6.0\ticketsBL.pdb
+C:\Users\ECC\Desktop\HTML\api\apilab2\ticketsBL\obj\Debug\net6.0\ref\ticketsBL.dll
+C:\Users\ECC\Desktop\HTML\api\apilab2\ticketsBL\bin\Debug\net6.0\ticketsBL.runtimeconfig.json
+C:\Users\ECC\Desktop\HTML\api\apilab2\ticketsBL\obj\Debug\net6.0\ticketsBL.genruntimeconfig.cache
