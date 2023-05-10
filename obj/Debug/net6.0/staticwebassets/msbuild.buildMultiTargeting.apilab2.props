@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\apilab2.props" />
+</Project>
